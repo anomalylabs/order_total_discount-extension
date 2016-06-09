@@ -1,0 +1,9 @@
+{
+    "name": "anomaly/order_total_discount-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Anomaly\\OrderTotalDiscountExtension\\": "src/"
+        }
+    }
+}
